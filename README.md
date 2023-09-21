@@ -1,10 +1,10 @@
 # User Entry System
 
-This project collect the users details.
+### This project collect the users details.
 
 ![userEntry](https://github.com/JeevaFsd-0/React-UserEntry-System/assets/145536938/ec8ce3d9-afcd-4d92-9d4a-c1fe39d66dc5)
 
-Details for the user.
+### Details for the user.
 
 ![userEntry2](https://github.com/JeevaFsd-0/React-UserEntry-System/assets/145536938/8f4dff0b-7832-4674-af72-6f5b36ae7397)
 
