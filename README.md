@@ -1,3 +1,10 @@
+# User Entry System
+
+This project collect the users details.
+
+![userEntry](https://github.com/JeevaFsd-0/React-UserEntry-System/assets/145536938/ec8ce3d9-afcd-4d92-9d4a-c1fe39d66dc5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
